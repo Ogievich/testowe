@@ -7,4 +7,4 @@ Napiszę plan testów dla rejestracji konta na wp.pl z uwzględnieniem walidacji
 4. Kryterium zaliczneia/niezaliczenia testów
 5. Kryterium wejścia/wyjścia
 6. Lista wymagań
-7. 
+7. Anastazja
